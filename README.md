@@ -1,4 +1,4 @@
-# SpeedDialSorter_rust / CSV電話帳処理ツール
+# speed-dial-sort-for-NTT-to-others / CSV電話帳処理ツール
 
 CSV形式の電話帳データを整理・クリーニングし、ナカヨ電話機用のフォーマットに変換するWindowsデスクトップツールです。
 
